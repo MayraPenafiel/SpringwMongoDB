@@ -1,8 +1,0 @@
-GitHub:
-
-	https://github.com/MayraPenafiel/SpringwMongoDB
-
-Heroku:
-
-	https://crudproducto-api.herokuapp.com/swagger-ui/index.html#/
-
